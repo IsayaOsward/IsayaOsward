@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭I am currently working on Flutter for mobile app development.<br>🪴I am also learning more about BlockChain.<br>🧑‍🤝‍🧑I am looking to collaborate with flutter developers<br>☘️I have been working with laravel before jumping to flutter.<br>
-🗯️You can ask me about flutter and tech-related queries.<br>📩You can find me on social media on X, Youtube, LinkedIn as @IsayaOsward
+🔭I am currently working on Flutter for mobile app development.<br>🧑‍🤝‍🧑I am looking to collaborate with flutter developers<br>☘️I am capable to work with flutter, react js, laravel and node js<br>
+🗯️You can ask me about flutter, react js, laravel, node js and tech-related queries.<br>📩You can find me on social media on X, Youtube, LinkedIn as @IsayaOsward
 
 
 ## 🌐 Socials:
