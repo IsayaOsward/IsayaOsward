@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭I am currently working on Flutter for mobile app development.<br>🧑‍🤝‍🧑I am looking to collaborate with flutter developers<br>☘️I am capable to work with flutter, react js, laravel and node js<br>
-🗯️You can ask me about flutter, react js, laravel, node js and tech-related queries.<br>📩You can find me on social media on X, Youtube, LinkedIn as @IsayaOsward
+🔭I am currently working on Flutter for mobile app development, django,node js , nest js spring boot and laravel for backend development.<br>🧑‍🤝‍🧑I am looking to collaborate with flutter, django, node js , nest js spring boot and laravel developers<br>☘️I am capable to work with flutter, react js, laravel and node js, nest js, django, spring boot<br>
+🗯️You can ask me about tech-related queries.<br>📩You can find me on social media on X, Youtube, LinkedIn as @IsayaOsward
 
 
 ## 🌐 Socials:
